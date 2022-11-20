@@ -1,4 +1,5 @@
 # Code-for-Mechine-Learning-Course
+数据处理代码在Main分支下
 ## requarement
 torch + cu113 >=1.7.0<br/>
 numpy >= 1.20.0<br/>
